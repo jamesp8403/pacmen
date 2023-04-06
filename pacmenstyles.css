@@ -8,7 +8,7 @@ button {
     cursor: pointer;
     font-size: 18px;
     border: none;
-    transition-duration: 0.4s;
+
     font-family: Monaco, monospace;
 }
 
